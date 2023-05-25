@@ -102,7 +102,7 @@
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 16px 20px;
-  background: #fff;
+  background: pink;
   padding: 20px 10px 20px 25px;
   min-height: 500px;
 }
@@ -134,6 +134,7 @@
     border-top-right-radius: 20px;
     padding: 1%;
 }
+
 /* .banner-content{
   display: grid;
   width: 100%;
